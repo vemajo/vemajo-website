@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oispa kaljaa :D on Oispa kaljaa :D</title>
+		<link>https://vemajo.com/</link>
+		<description>Recent content in Oispa kaljaa :D </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(&#34;Oispa kaljaa :D&#34;)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 18 Jun 2021 13:59:28 +0300</lastBuildDate>
+		
+		<atom:link href="/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
