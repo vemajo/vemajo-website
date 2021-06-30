@@ -6,7 +6,7 @@ Install Hugo (https://gohugo.io/)
 sudo apt install hugo
 ```
 
-Clone the repo to your local machine:
+Clone the repo to yuor local machine:
 
 ```
 git clone https://github.com/vemajo/vemajo-website.git
