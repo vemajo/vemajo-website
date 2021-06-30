@@ -1,4 +1,5 @@
 # Usage
+
 Install Hugo (https://gohugo.io/)
 
 ```
@@ -9,8 +10,8 @@ Clone the repo to your local machine:
 
 ```
 git clone https://github.com/vemajo/vemajo-website.git
-git checkout -b "feat/new-awesome-post"
 cd vemajo-website
+git checkout -b "feat/new-awesome-post"
 ```
 
 Create or modify content.:
@@ -21,6 +22,7 @@ vi content/posts/post-4.md
 ```
 
 Hugo supports markdown language:
+
 ```
 title: "Example title"
 date: 2021-06-18T13:59:28+03:00
