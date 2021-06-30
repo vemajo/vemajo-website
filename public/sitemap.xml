@@ -1,43 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://vemajo.com/</loc>
-    <lastmod>2021-06-18T13:59:28+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-30T18:22:18+03:00</lastmod>
+  </url><url>
     <loc>https://vemajo.com/posts/</loc>
-    <lastmod>2021-06-18T13:59:28+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-30T18:22:18+03:00</lastmod>
+  </url><url>
+    <loc>https://vemajo.com/posts/post-300621/</loc>
+    <lastmod>2021-06-30T18:22:18+03:00</lastmod>
+  </url><url>
     <loc>https://vemajo.com/posts/post-4/</loc>
     <lastmod>2021-06-18T13:59:28+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vemajo.com/posts/my-thrd-post/</loc>
     <lastmod>2021-06-17T19:02:37+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vemajo.com/posts/my-scnd-post/</loc>
     <lastmod>2021-06-17T18:56:19+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vemajo.com/posts/my-first-post/</loc>
     <lastmod>2021-06-17T18:24:07+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vemajo.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vemajo.com/tags/</loc>
   </url>
-  
 </urlset>
